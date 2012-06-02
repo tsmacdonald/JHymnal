@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tune>	<title>DUNDEE</title>
+	<author>Scottish Psalter</author>
+	<year>1615</year>
+	<meter name="C.M.">
+		<count>8</count>
+		<count>6</count>
+		<count>8</count>
+		<count>6</count>
+	</meter>
+	<melody>SOPRANO</melody>
+	<key>Ef</key>
+	<time>
+		<beats>4</beats>
+		<length>4</length>
+	</time>	<start>4</start>
+	<parts>
+		<soprano>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>B4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>D4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF5</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>D5</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C5</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AN4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>D4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+		</soprano>
+		<alto>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>DF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>D4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>DN4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>D4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>8</duration>
+					</note>
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF3</pitch>
+						<duration>8</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+		</alto>
+		<tenor>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C4</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>G3</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+		</tenor>
+		<bass>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>G2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>DF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>D3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>F3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+			</line>
+			<line>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>AF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>C3</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="false" rest="false" slur="NONE" tie="false">
+						<pitch>BF2</pitch>
+						<duration>4</duration>
+					</note>
+				</syllable>
+				<syllable repeat="false">
+					<note dotted="true" rest="false" slur="NONE" tie="false">
+						<pitch>EF3</pitch>
+						<duration>2</duration>
+					</note>
+				</syllable>
+			</line>
+		</bass>
+	</parts>
+</tune>

@@ -1,0 +1,6 @@
+#!/bin/bash
+javac -cp . */*.java */*/*.java &&
+#javac -cp . editors/*/*.java &&
+java -cp . gui.MainGUI &&
+rm */*.class &&
+rm editors/*/*.class

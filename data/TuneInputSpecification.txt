@@ -1,0 +1,77 @@
+General Format
+==============
+MetaData
+Music
+
+NOTE: Comments are allowed.
+  All lines beginning with # will be ignored.
+  Examples:
+# This is a valid comment.
+#This is also a valid comment.
+ # This is not a valid comment.
+// This is not a valid comment.
+
+NOTE: Empty lines are allowed.
+  All lines containing no characters or whitespace (space, tab) will be ignored.
+  
+NOTE: By convention, tune input files should use the ".tune" suffix for easy
+  identification, but the parser will NOT enforce this naming convention.
+
+MetaData Format
+===============
+Name: One line of text (spaces allowed) - this is the name for this tune.
+Author: One line of text representing the tune's author's name
+    If unknown, use "Anonymous".
+Date: One line containing one integer, which is the year in which the tune was
+    written.  If unknown, use 0.
+Meter: 1 line - Period delimited list of syllable counts per line for each verse
+    of text
+Key Signature: One line of text
+	Scientific pitch notation (without octave... see Note specifications)
+	Note: Currently, only major keys are supported.
+Time Signature: Space delimited list of 2 integer on one line
+	(first is the number of beats in a measure, second is the duration of each beat)
+Starting Beat: One integer for the starting beat in the measure (must conform to
+	time signature)
+
+
+Music Format
+============
+A word on Key Signatures:
+    The way Spring 2010 entered the notes (using absolute pitch) requires indicating
+    if a note is flat, natural or sharp regardless of the key.  Therefore, when using
+    (for example) LilyPond, one does not need to consider the key when rendering accidentals.
+    However, if it is done manually (see worker.LAYOUTManager), the key must be considered
+    when rendering accidentals.
+
+Notes for each part: Space delimited list of notes for each syllable of text.  
+	If a syllable of text requires more than one note, delimit the notes by semicolons.
+	Notes are defined as a comma delimited list of the following:
+	- Absolute pitch according to Scientific Pitch notation - either 2 or 3 characters
+	  - pitch[accidental]octave
+	  - pitch is the pitch on the note's staff
+	    examples: bottom line treble cleff = E, bottom line bass cleff = G
+	  - accidental (optional) - one character (s, n, or f)
+	    NOTE: double accidentals are not supported
+	  - octave - one integer representing the octave according to scientific pitch notation
+	    middle C = 4
+	  Example:
+	  	F (first space on treble cleff) sharp	= Fs4
+	  	B (second line on bass cleff) flat		= Bf2
+	  	C (middle C) with no accidental			= C4
+	- Duration denominator (ie. half note = 2, whole note = 1, eighth note = 8)
+	- Whether the note is dotted (either "n" or ".")
+	- Whether the note is tied to other notes ("n" - not involved in a tie, 
+		"[" - begins a tie, "-" - middle of a tie, "]" - ends a tie)
+	- Whether the note is slurred to other notes ("n" - not involved in a slur, 
+		"[" - begins a slur, "-" - middle of a slur, "]" - ends a slur)
+	Example:
+		Dotted quarter note middle C slurred to an eighth note F sharp (first space
+		in the treble clef).
+		C4,4,.,n,[;Fs4,8,n,n,]
+	NOTE: The music portion of the input file MUST include music for soprano, alto
+		tenor and bass IN THAT ORDER.  
+	NOTE: The number of syllables represented by the lists of one or more note 
+		must conform to the expected number of syllables for that line based on 
+		the meter.
+	NOTE: Measure divisions will be computed.

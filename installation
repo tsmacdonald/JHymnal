@@ -1,0 +1,5 @@
+In order to get the project working, run ./installLilypond from inside the Hymnal folder, otherwise things won't render.
+It should add an "etc" directory inside Hymnal, with "bin" and "lilypond" folders
+
+To run execute ./buildAndRun
+

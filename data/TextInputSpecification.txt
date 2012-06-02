@@ -1,0 +1,48 @@
+General Format
+==============
+MetaData
+Verses
+
+NOTE: Comments are allowed.
+  All lines beginning with # will be ignored.
+  Examples:
+# This is a valid comment.
+#This is also a valid comment.
+ # This is not a valid comment.
+// This is not a valid comment.
+
+NOTE: Empty lines are allowed.
+  All lines containing no characters or whitespace (space, tab) will be ignored.
+
+NOTE: By convention, text input files should use the ".text" suffix for easy
+  identification, but the parser will NOT enforce this naming convention.
+
+MetaData Format
+===============
+Name: One line of text representing the name of this text
+Author: One line of text representing the text's author's name
+    If unknown, use "Anonymous".
+Date: One line containing one integer, which is the year in which the text was
+    written.  If unknown, use 0.
+Meter: 1 line - Period delimited list of syllable counts per line for each verse
+    of text
+Number of Verses: One line containing one integer, which is the number of verses
+    listed subsequently in the file	
+
+
+Verse Format
+============
+Verses: Text for each verse.  One line in input file is one line in one verse.
+    Line breaks in the input file are dictated by the meter.
+	Each line in the input file is a (white)space delimited list of Strings
+	representing one syllable of the text for the given line.  By convention,
+	when splitting an word into normal syllables, end all but the last syllable
+	with a "-".  (Example: "A- maz- ing Grace,")
+	NOTE: Spelling is not checked.
+	NOTE: Punction is allowed as a part of a Syllable.
+	NOTE: The number of Strings on each line must correspond with the expected
+		number based on the tune's meter.
+	NOTE: let L be the number of lines in each verse and N be the number of verses
+		total number of lines in input file should be L x N.
+    NOTE: line breaks in the generated sheet music may not match the line breaks
+        in the input file

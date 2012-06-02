@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<text>
+	<title>Amazing Grace</title>
+	<author>John Newton</author>
+	<year>1779</year>
+	<meter name="C.M.">
+		<count>8</count>
+		<count>6</count>
+		<count>8</count>
+		<count>6</count>
+	</meter>
+	<verses>
+		<verse>
+			<line>A- maz- ing Grace, how sweet the sound, </line>
+			<line>That saved a wretch like me. </line>
+			<line>I once was lost but now am found, </line>
+			<line>Was blind, but now I see. </line>
+		</verse>
+		<verse>
+			<line>T'was Grace that taught my heart to fear. </line>
+			<line>And Grace, my fears re- lieved. </line>
+			<line>How pre- cious did that Grace ap- pear </line>
+			<line>The hour I first be- lieved. </line>
+		</verse>
+		<verse>
+			<line>Through man- y dan- gers, toils and snares </line>
+			<line>I have al- read- y come; </line>
+			<line>'Tis Grace that brought me safe thus far </line>
+			<line>and Grace will lead me home. </line>
+		</verse>
+		<verse>
+			<line>The Lord has pro- mised good to me. </line>
+			<line>His word my hope se- cures. </line>
+			<line>He will my shield and por- tion be, </line>
+			<line>As long as life en- dures. </line>
+		</verse>
+		<verse>
+			<line>Yea, when this flesh and heart shall fail, </line>
+			<line>And mor- tal life shall cease, </line>
+			<line>I shall pos- sess with- in the veil, </line>
+			<line>A life of joy and peace. </line>
+		</verse>
+		<verse>
+			<line>When we've been here ten thou- sand years </line>
+			<line>Bright shin- ing as the sun. </line>
+			<line>We've no less days to sing God's praise </line>
+			<line>Than when we've first be- gun. </line>
+		</verse>
+	</verses>
+</text>

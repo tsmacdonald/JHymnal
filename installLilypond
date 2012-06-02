@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir etc
+sh lilypond-2.14.2-1.linux-64.sh --prefix etc
