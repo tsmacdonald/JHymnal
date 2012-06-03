@@ -76,23 +76,23 @@ public class MainToolBar extends JToolBar implements AbstractToolBar
 		});
 		this.add(clearCache);
 
-		//
-		// Tune Creator
-		//
-		JButton tuneCreator = new JButton(Utility.getImage("icons", "addtune.png"));
-		tuneCreator.setToolTipText("Open the tune creator");
-		tuneCreator.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				TuneEditor t = new TuneEditor();
-				t.addWindowListener(new WindowAdapter() {
-					public void windowClosed(WindowEvent e) {
-						refreshTunes();
-					}
-				});
-			}
-		});
-		this.add(tuneCreator);
-
+//		//
+//		// Tune Creator
+//		//
+//		JButton tuneCreator = new JButton(Utility.getImage("icons", "addtune.png"));
+//		tuneCreator.setToolTipText("Open the tune creator");
+//		tuneCreator.addActionListener(new ActionListener() {
+//			public void actionPerformed(ActionEvent e) {
+//				TuneEditor t = new TuneEditor();
+//				t.addWindowListener(new WindowAdapter() {
+//					public void windowClosed(WindowEvent e) {
+//						refreshTunes();
+//					}
+//				});
+//			}
+//		});
+//		this.add(tuneCreator);
+//
 //		//
 //		// Text Creator
 //		//
